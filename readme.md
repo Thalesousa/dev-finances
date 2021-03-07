@@ -2,7 +2,8 @@
     <img src="./assets/logo.svg" width="250" />
 </h1>
 <p align="center">
-  💰 Uma aplicação web feita na [maratona discover](https://www.youtube.com/watch?v=NlDr6JX3VvA) que lista nossos gastos financeiros com os somatórios de lucros e despesas.
+  💰 Uma aplicação web feita na <a href="https://www.youtube.com/watch?v=NlDr6JX3VvA">maratona discover</a>
+    que lista nossos gastos financeiros com os somatórios de lucros e despesas.
 </p>
 <div align="center">
   <img src="https://img.shields.io/badge/-html5-orange">
